@@ -9,9 +9,28 @@
   width: 90%;
 }
 
+nav{
+  margin-left:1%;
+  margin-right: 1%;
+}
+
+.nav-item{
+  font-size: x-large;
+}
+
+
 body {
   background-image: url(../img/fondo.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-attachment: fixed;*/
 }
+
+.navbar-text{
+}
+
+
 
 /*!
  * Bootstrap  v5.3.3 (https://getbootstrap.com/)
